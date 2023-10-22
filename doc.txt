@@ -1,1 +1,1 @@
-document 23
+document local
