@@ -1,4 +1,4 @@
 document
 document local
-document repository
-komputer local
+document repository asd
+komputer localkompyuter remote
