@@ -1,4 +1,4 @@
 document
 document local
 document repository
-komputer
+komputer local
